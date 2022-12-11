@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Thanks!
 
-Template Name: MyResume
+Project Name: Global-One
 Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Author: globalone.com
+License: https://globalone.com/license/
