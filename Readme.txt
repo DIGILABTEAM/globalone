@@ -1,6 +1,5 @@
 Thanks!
 
 Project Name: Global-One
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: globalone.com
+Author: freelancers.com
 License: https://globalone.com/license/
